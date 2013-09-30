@@ -1,3 +1,5 @@
+// get taxonomy and it's subtaxonomies (children)
+
 $taxonomy = "brands";
 
 //get top layer terms only by setting parent to 0.
